@@ -20,8 +20,8 @@
 - A passionate of web development and cybersecurity.
 - I'm a Computer Science Student.
 - Currently learning Web Development and cybersecurity.
-- I have taken several [Hack4u](https://hack4u.io/) courses.
 - Personal website [link](https://sudok1rb1.blogspot.com/)
+- I have taken several [Hack4u](https://hack4u.io/) courses.
 - I’m currently open for a new job opportunity.
 - Preparing for OSCP and more certificates...
 
