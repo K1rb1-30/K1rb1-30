@@ -45,18 +45,20 @@
 - **Back-End Development**:
   
    ![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
-   ![Django](https://img.shields.io/badge/Django-00913F?style=for-the-badge&logo=django&logoColor=white)
-	
-
+  
 <br>
 
 - **Frameworks**:
   
   ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-  ![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 	
 <br>
+
+- **Game Engines**:
+
+  ![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
+  ![GameMaker](https://img.shields.io/badge/GameMaker-000?style=fot-the-badge&logo=gamemaker&logoColor=fff)
 
 - **Pentesting**:
 
@@ -97,6 +99,14 @@
 <div align='left'>
 
 <ul>
+
+<li>
+<a href="https://www.linkedin.com/in/gabriel-s%C3%A1nchez-flores-044a65310/" target="_blank">
+<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" alt=Instagram style="margin-bottom: 5px;"/>
+</a>
+</li>
+
+<br>
 
 <li>
 <a href="https://www.instagram.com/f1re007/" target="_blank">
