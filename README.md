@@ -58,7 +58,7 @@
 - **Game Engines**:
 
   ![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
-  ![GameMaker](https://img.shields.io/badge/GameMaker-000?style=fot-the-badge&logo=gamemaker&logoColor=fff)
+  ![GameMaker](https://img.shields.io/badge/GameMaker-000?style=for-the-badge&logo=gamemaker&logoColor=fff)
 
 - **Pentesting**:
 
