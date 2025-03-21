@@ -40,6 +40,19 @@
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    <!-- ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) -->
 
+  <br>
+
+- **Back-End Development**:
+   ![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+   ![Django](https://img.shields.io/badge/Django-00913F?style=for-the-badge&logo=django&logoColor=white)
+	
+
+<br>
+- **Frameworks**:
+  ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+  ![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
+	
 <br>
 
 - **Pentesting**:
@@ -119,4 +132,4 @@
 
 <br>
 
-Last Edited on: 30/04/2024
+Last Edited on: 21/03/2025
